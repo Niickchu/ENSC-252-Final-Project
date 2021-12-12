@@ -1,6 +1,6 @@
 # *VHDL-Final-Project*
 
-## Note: This project requires an FPGA board to run and was developed on a _Cyclone IV_ FPGA board
+## Note: This project requires an FPGA board to run and was developed on a _Cyclone IV_ board
 
 ### Description
 Implementation of a scrolling message display board (SMDB) capable of showcasing 4 programs. Additionally, the program is capable of changing the scrolling speed, pausing, and counting the number of program executions.
