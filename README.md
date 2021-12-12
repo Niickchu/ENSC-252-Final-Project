@@ -1,7 +1,6 @@
 # *VHDL-Final-Project*
 
-## Note:
-**This project requires an FPGA board to run
+## Note: **This project requires an FPGA board to run
 and was developed on a _Cyclone IV_ FPGA board**
 
 ### Description
