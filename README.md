@@ -2,9 +2,9 @@
 
 ## Note:
 **This project requires an FPGA board to run
-This project was developed on a _Cyclone IV_ FPGA board **
+and was developed on a _Cyclone IV_ FPGA board **
 
-## Description
+### Description
 A scrolling message display board (SMDB) capable of showcasing 4 programs.
 
 Program 1:
