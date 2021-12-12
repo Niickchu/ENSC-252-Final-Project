@@ -8,8 +8,8 @@ and was developed on a _Cyclone IV_ FPGA board**
 Implementation of a scrolling message display board (SMDB) capable of showcasing 4 programs.
 
 **Program 1 and 2:**\
-  An image of a snake scrolling left and right through the seven segment display
+  An image of a snake scrolling left and right through the seven segment display\
 **Program 3:**\
-  A "fly" trying to escape the seven segment display
+  A "fly" trying to escape the seven segment display\
 **Program 4:**\
-  A custom scrolling message "bing bong"
+  A custom scrolling message "bing bong"\
