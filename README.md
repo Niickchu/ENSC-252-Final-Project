@@ -5,7 +5,7 @@
 and was developed on a _Cyclone IV_ FPGA board**
 
 ### Description
-Implementation of a scrolling message display board (SMDB) capable of showcasing 4 programs.
+Implementation of a scrolling message display board (SMDB) capable of showcasing 4 programs. Additionally, the program is capable of changing the scrolling speed, pausing, and counting the number of program executions.
 
 **Program 1 and 2:**\
   An image of a snake scrolling left and right through the seven segment display
